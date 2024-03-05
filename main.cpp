@@ -1,7 +1,7 @@
 // Store Students Information
 
 #include <iostream>
-#include <iomanip>
+#include <string>
 
 struct Student {
 	// Address
