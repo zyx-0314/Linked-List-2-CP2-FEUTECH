@@ -76,7 +76,7 @@ This is the system created to understand the use cases of Linked List. Having Mu
 
 This is the system created to understand the use cases of Linked List. Having Multiple Versions and different level of knowledge application it goals to help student understand Linked List Logic and possibilites it could open with different scenarios and situations and limits.
 
-### Full Calculator (Still on Works)
+### Student Data Collector
 Versions:
 - with Explanation (ongoing)
 - without explanation
