@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-    <img src="./Docs/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./docs/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 
   <h3 align="center">Calculator</h3>
@@ -97,7 +97,7 @@ Versions:
 ### Fork
 You can make your own copy of the project by Forking the project.
 
-<img src="./Docs/img/fork.png" alt="Nyebe" width="1000" height="100">
+<img src="./docs/img/fork.png" alt="Nyebe" width="1000" height="100">
 
 You can contribute by doing Pull Request after you modify the project. 
 
@@ -168,9 +168,9 @@ the values I placed are;
 ### Follow and Star
 If you find this project interesting, consider giving it a star on GitHub. You can also follow the repository for updates and notifications.
 
-<img src="./Docs/img/follow.png" alt="Nyebe" width="250" height="100">
+<img src="./docs/img/follow.png" alt="Nyebe" width="250" height="100">
 
-<img src="./Docs/img/star.png" alt="Nyebe" width="450" height="50">
+<img src="./docs/img/star.png" alt="Nyebe" width="450" height="50">
 
 <br />
 
