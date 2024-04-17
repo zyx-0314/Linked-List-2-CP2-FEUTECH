@@ -111,24 +111,27 @@ Steps:
 
 1. Find the Issue Tab
 
-<img src="./Docs/img/Issue.png" alt="Nyebe" width="1000" height="100">
+<img src="./docs/img/Issue.png" alt="Nyebe" width="1000" height="70">
 
 2. Find the New Issue Button
 
-<img src="./Docs/img/new-issue.png" alt="Nyebe" width="130" height="100">
+<img src="./docs/img/new-issue.png" alt="Nyebe" width="130" height="60">
 
 4. Add a Short Title
 
-<img src="./Docs/img/issue-title.png" alt="Nyebe" width="1800" height="100">
+<img src="./docs/img/issue-title.png" alt="Nyebe" width="1800" height="80">
 
 6. Add Descriptions
 
-<img src="./Docs/img/issue-description.png" alt="Nyebe" width="1800" height="340">
+<img src="./docs/img/issue-description.png" alt="Nyebe" width="1800" height="340">
+
+<br>
 
 Format of Description
-   i.   Problem - Describe the problem
-   ii.  Step-by-Step of how the problem occur, if possible with screen-shots
-   iii. if there is variables, include at the bottom
+
+* Problem - Describe the problem
+* Step-by-Step of how the problem occur, if possible with screen-shots
+* if there is variables, include at the bottom
 
 ---
 
@@ -146,18 +149,21 @@ Step 3: Enter Values
 Step 4: Problem Occur here that should be something like this but it does this.
 
 Variables:
-the values I placed are;
+the values I placed are; 
 1 - for registration
 2 - Dela Cruz for Last name
 
 ---
 
-7. Submit
+1. Submit
 
-<img src="./Docs/img/submit-issue.png" alt="Nyebe" width="180" height="60">
+<img src="./docs/img/submit-issue.png" alt="Nyebe" width="180" height="60">
 
-<br/>
-<br/>
+<br />
+
+<div align="right">(<a href="#readme-top">back to top</a>)</div>
+
+---
 
 ### Follow and Star
 If you find this project interesting, consider giving it a star on GitHub. You can also follow the repository for updates and notifications.
